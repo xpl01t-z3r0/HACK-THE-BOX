@@ -29,3 +29,25 @@ PORT     STATE SERVICE VERSION
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
 Nmap done: 1 IP address (1 host up) scanned in 29.48 seconds
 ```
+
+```
+root㉿kali)-[~/Desktop/HTB/sts]
+└─# nmap -sV -p- -Pn 10.129.110.173
+Starting Nmap 7.95 ( https://nmap.org ) at 2026-07-20 14:37 EDT
+Nmap scan report for 10.129.110.173
+Host is up (0.60s latency).
+Not shown: 65528 closed tcp ports (reset)
+PORT     STATE SERVICE     VERSION
+21/tcp   open  ftp         vsftpd 3.0.3
+22/tcp   open  ssh         OpenSSH 8.2p1 Ubuntu 4ubuntu0.1 (Ubuntu Linux; protocol 2.0)
+80/tcp   open  http        Apache httpd 2.4.41 ((Ubuntu))
+139/tcp  open  netbios-ssn Samba smbd 4
+445/tcp  open  netbios-ssn Samba smbd 4
+2323/tcp open  telnet      Linux telnetd
+8080/tcp open  http        Apache Tomcat
+Service Info: OSs: Unix, Linux; CPE: cpe:/o:linux:linux_kernel
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 3014.26 seconds
+```
+
