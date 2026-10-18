@@ -50,4 +50,20 @@ Service Info: OSs: Unix, Linux; CPE: cpe:/o:linux:linux_kernel
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
 Nmap done: 1 IP address (1 host up) scanned in 3014.26 seconds
 ```
+```
+root㉿kali)-[~/Desktop/HTB/sts]
+└─# smbclient -L \\\\10.129.110.222 -U bob
+Password for [WORKGROUP\bob]:
+        Sharename       Type      Comment
+        ---------       ----      -------
+        print$          Disk      Printer Drivers
+        users           Disk      
+        IPC$            IPC       IPC Service (gs-svcscan server (Samba, Ubuntu))
+Reconnecting with SMB1 for workgroup listing.
+smbXcli_negprot_smb1_done: No compatible protocol selected by server.
+Protocol negotiation to server 10.129.110.222 (for a protocol between LANMAN1 and NT1) failed: NT_STATUS_INVALID_NETWORK_RESPONSE
+Unable to connect with SMB1 -- no workgroup available
+
+pass: Welcome1
+```
 
