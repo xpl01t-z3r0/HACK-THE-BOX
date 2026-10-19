@@ -80,7 +80,8 @@ smbclient \\\\10.129.110.222\\users -U bob
 
 ```
 
-![[Pasted image 20260721031403.png]]
+<img width="2128" height="1000" alt="image" src="https://github.com/user-attachments/assets/f9627a71-77d5-43dc-a428-80098594a187" />
+
 
 ```
 (root㉿kali)-[~/Desktop/HTB/sts]
@@ -95,7 +96,7 @@ dceece590f3284c3866305eb2473d099
 gobuster dir -u http://154.57.164.72:32333 -w /usr/share/seclists/Discovery/Web-Content/common.txt
 ```
 
-![[Pasted image 20260721223001.png]]
+<img width="2132" height="1172" alt="image" src="https://github.com/user-attachments/assets/37b25299-cff8-4523-ad61-a4f8abcf943f" />
 
 ![[Pasted image 20260721223048.png]]
 
