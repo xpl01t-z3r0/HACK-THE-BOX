@@ -107,8 +107,8 @@ gobuster dir -u http://154.57.164.72:32333 -w /usr/share/seclists/Discovery/Web-
 
 <img width="1282" height="538" alt="image" src="https://github.com/user-attachments/assets/2f16dc45-4635-4f5b-963e-28d588d87198" />
 
+<img width="1760" height="520" alt="image" src="https://github.com/user-attachments/assets/d1faaa05-c6d7-4dd3-8ad0-0776e30c25a9" />
 
-![[Pasted image 20260721223509.png]]
 
 # Public Exploits
 
