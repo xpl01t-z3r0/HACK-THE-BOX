@@ -149,7 +149,8 @@ OS and Service detection performed. Please report any incorrect results at https
 Nmap done: 1 IP address (1 host up) scanned in 36.98 seconds
 ```
 
-![[Pasted image 20260722000308.png]]
+<img width="2402" height="926" alt="image" src="https://github.com/user-attachments/assets/b4136d8c-b14d-412d-8b71-6375734ca7e3" />
+
 
 ```
 msf > search wordpress 2.7.10
