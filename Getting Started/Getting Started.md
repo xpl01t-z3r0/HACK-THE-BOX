@@ -203,7 +203,9 @@ msf auxiliary(scanner/http/wp_simple_backup_file_read) > cat /root/.msf4/loot/20
 
 ```
 
-![[Pasted image 20260722001443.png]]
+<img width="2650" height="1386" alt="image" src="https://github.com/user-attachments/assets/a6777bf6-57f2-4ef7-9caf-21c09a1b3ced" />
+
+
 ![[Pasted image 20260722001506.png]]
 
 ![[Pasted image 20260722001558.png]]
