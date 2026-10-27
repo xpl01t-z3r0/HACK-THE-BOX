@@ -210,9 +210,8 @@ msf auxiliary(scanner/http/wp_simple_backup_file_read) > cat /root/.msf4/loot/20
 
 
 <img width="2650" height="352" alt="image" src="https://github.com/user-attachments/assets/d0467c9f-7b96-43b8-a00f-3d0d08509c30" />
+<img width="1998" height="178" alt="image" src="https://github.com/user-attachments/assets/f7e267be-a987-4ae9-99bc-6fabd286856f" />
 
-
-![[Pasted image 20260722001642.png]]
 
 # Privilege Escalation
 
