@@ -247,7 +247,8 @@ HTB{l473r4l_m0v3m3n7_70_4n07h3r_u53r}
 cat /root/.ssh/id_rsa
 ```
 
-![[Pasted image 20260722135217.png]]
+<img width="2416" height="1196" alt="image" src="https://github.com/user-attachments/assets/1ada5eb2-df9e-43f6-a677-a2244ea0416f" />
+
 
 ```
 nano id_rsa
