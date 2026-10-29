@@ -240,7 +240,8 @@ HTB{l473r4l_m0v3m3n7_70_4n07h3r_u53r}
 
 ```
 
-![[Pasted image 20260722134536.png]]
+<img width="2670" height="708" alt="image" src="https://github.com/user-attachments/assets/f7379117-f387-4d31-825d-af2119967f9d" />
+
 
 ```
 cat /root/.ssh/id_rsa
