@@ -1,4 +1,4 @@
-
+<img width="2212" height="292" alt="image" src="https://github.com/user-attachments/assets/a19fef5f-b161-43d8-86e2-4d53ef2bf0f2" />
 **Q1**
 ```
 nmap -Pn --min-rate 5000 -T4 -p- 10.129.109.18
@@ -260,7 +260,9 @@ chmod 600 id_rsa
 ssh root@154.57.164.72 -p 31231 -i id_rsa
 ```
 
-![[Pasted image 20260722135726.png]]
+<img width="2212" height="292" alt="image" src="https://github.com/user-attachments/assets/a67b1c62-3770-4ff4-a2f1-997f5949b07b" />
+
+
 
 # Nibbles - Initial Foothold
 
