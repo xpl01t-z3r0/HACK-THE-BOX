@@ -301,9 +301,11 @@ Finished
 
 ```
 
-![[Pasted image 20260722174354.png]]
+<img width="2252" height="612" alt="image" src="https://github.com/user-attachments/assets/639686ba-bea6-47ad-840b-e14d8fd40bf0" />
 
-![[Pasted image 20260722174415.png]]
+
+<img width="2434" height="1436" alt="image" src="https://github.com/user-attachments/assets/618937bf-7689-4756-a042-f058b13f084c" />
+
 
 ![[Pasted image 20260722174447.png]]
 
