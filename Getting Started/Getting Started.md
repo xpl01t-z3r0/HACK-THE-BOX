@@ -199,8 +199,6 @@ msf auxiliary(scanner/http/wp_simple_backup_file_read) > exploit
 [*] Scanned 1 of 1 hosts (100% complete)
 [*] Auxiliary module execution completed
 msf auxiliary(scanner/http/wp_simple_backup_file_read) > cat /root/.msf4/loot/20260721141112_default_154.57.164.81_simplebackup.tra_114832.txt
-
-
 ```
 
 <img width="2650" height="1386" alt="image" src="https://github.com/user-attachments/assets/a6777bf6-57f2-4ef7-9caf-21c09a1b3ced" />
@@ -307,7 +305,7 @@ Finished
 <img width="2434" height="1436" alt="image" src="https://github.com/user-attachments/assets/618937bf-7689-4756-a042-f058b13f084c" />
 
 
-![[Pasted image 20260722174447.png]]
+<img width="2268" height="850" alt="image" src="https://github.com/user-attachments/assets/136599a7-0e4a-441e-b1a5-0dc000610a7a" />
 
 
 ![[Pasted image 20260722183147.png]]
