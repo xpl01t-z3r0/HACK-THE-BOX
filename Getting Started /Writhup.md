@@ -66,4 +66,9 @@ Unable to connect with SMB1 -- no workgroup available
 
 pass: Welcome1
 ```
+```
+smbclient \\\\10.129.110.222\\users -U bob
+```
+<img width="2128" height="1000" alt="image" src="https://github.com/user-attachments/assets/db684241-5cc2-400f-83bd-9d568ef24489" />
+
 
