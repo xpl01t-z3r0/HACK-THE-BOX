@@ -83,4 +83,7 @@ gobuster dir -u http://154.57.164.72:32333 -w /usr/share/seclists/Discovery/Web-
 ```
 <img width="2132" height="1172" alt="image" src="https://github.com/user-attachments/assets/6ed2b26b-0616-4c2a-a8ea-85920132dd70" />
 
+<img width="1734" height="1556" alt="image" src="https://github.com/user-attachments/assets/f11e5472-717b-4d0b-9815-4e0f19f964f3" />
+
+
 
