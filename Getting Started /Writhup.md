@@ -78,5 +78,9 @@ dceece590f3284c3866305eb2473d099
 ```
 
 # Web Enumeration
+```
+gobuster dir -u http://154.57.164.72:32333 -w /usr/share/seclists/Discovery/Web-Content/common.txt
+```
+<img width="2132" height="1172" alt="image" src="https://github.com/user-attachments/assets/6ed2b26b-0616-4c2a-a8ea-85920132dd70" />
 
 
